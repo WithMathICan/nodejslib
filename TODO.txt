@@ -1,1 +1,2 @@
-Test string
+1. Create functions to work with cookies.
+2. Create sessions and session store.
